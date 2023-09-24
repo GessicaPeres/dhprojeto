@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200&family=Inter:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200&display=swap');
+
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background: rgb(255, 255, 255);
+    border: solid grey 1px; 
+    font-family: 'DM+sans', sans-serif; 
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navdiv{
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+}
+#logoadm{
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    margin: 5px;
+}
+.logo a{
+    font-size: 35px; 
+    font-weight: 600; 
+    color: rgb(0, 0, 0);
+}
+li{
+    list-style: none; 
+    display: inline-block;
+}
+li a{
+    color: #24798B; 
+    font-size: 34px; 
+    font-weight: bold; 
+    margin-right: 570px;
+
+}
+
+h3{
+    color: #24798B; 
+    font-size: 24px; 
+    font-family: 'DM+sans', sans-serif; 
+}
+
+.ig2{
+    height:176px ;
+    width: 266px;
+    
+    margin: 5px;
+   
+}
+.corpo{
+    text-align: center;
+}
+
+p{
+    font-family: 'Inter', sans-serif;
+    font-size:15px ;
+    line-height: 18.15px;
+    color:#000000 ;
+}
+
+
+.topico{
+    font-family: 'Inter', sans-serif;
+    font-size:15px ;
+    line-height: 18.15px;
+    color: #24798B;
+}
